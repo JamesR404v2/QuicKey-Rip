@@ -11,7 +11,7 @@ const {getIfUtils, removeEmpty} = require("webpack-config-utils");
 const manifest = require("./src/manifest.json");
 const globals = require("./build/mock/globals");
 
-const ShortName = "QuicKey";
+const ShortName = "QuicKey Rip";
 const FullName = `${ShortName} – The quick tab switcher`;
 
 module.exports = (env, argv) => {

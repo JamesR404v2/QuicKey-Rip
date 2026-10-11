@@ -48,7 +48,7 @@
 	"commands": {
 		"_execute_action": {
 			"suggested_key": {
-				"default": "Alt+E",
+				"default": "Alt+A",
 				"mac": "MacCtrl+E"
 			}
 		},
